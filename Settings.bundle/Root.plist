@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PreferenceSpecifiers</key>
+	<array>
+		<dict>
+			<key>Type</key>
+			<string>PSGroupSpecifier</string>
+			<key>Title</key>
+			<string>General</string>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>PSTextFieldSpecifier</string>
+			<key>Title</key>
+			<string>Portal</string>
+			<key>Key</key>
+			<string>portal</string>
+			<key>DefaultValue</key>
+			<string>https://epic-vvp7.vidyoqa.com</string>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>PSTextFieldSpecifier</string>
+			<key>Title</key>
+			<string>Encrypted Data</string>
+			<key>Key</key>
+			<string>encryptedData</string>
+			<key>DefaultValue</key>
+			<string>s22MWr4h+DlVtm2KfI1HJr03gXpwYlAwvYLozJ37y68/B+sZ9r/nMewEIGy0fjouA8Lke5CSM57tyUktezXfn2bmpPXp9xqXYvIopH+deKyqFv7LPPM+4D0QOjY5NXo1L+NmNqsp6iNXYBGFWAQpJkMvqp9Zt8YD6+0aJ0vD1tC0czSI9/metPqaqpxNDSBN</string>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>PSToggleSwitchSpecifier</string>
+			<key>Title</key>
+			<string>Hide Configuration</string>
+			<key>Key</key>
+			<string>hideConfig</string>
+			<key>DefaultValue</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>PSToggleSwitchSpecifier</string>
+			<key>Title</key>
+			<string>Auto-Join</string>
+			<key>Key</key>
+			<string>autoJoin</string>
+			<key>DefaultValue</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>PSToggleSwitchSpecifier</string>
+			<key>Title</key>
+			<string>Enable Debug</string>
+			<key>Key</key>
+			<string>enableDebug</string>
+			<key>DefaultValue</key>
+			<false/>
+		</dict>
+	</array>
+	<key>StringsTable</key>
+	<string>Root</string>
+</dict>
+</plist>
