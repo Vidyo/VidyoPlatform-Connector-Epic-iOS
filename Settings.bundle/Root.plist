@@ -18,7 +18,7 @@
 			<key>Key</key>
 			<string>portal</string>
 			<key>DefaultValue</key>
-			<string>https://epic-vvp7.vidyoqa.com</string>
+			<string></string>
 		</dict>
 		<dict>
 			<key>Type</key>
@@ -28,7 +28,7 @@
 			<key>Key</key>
 			<string>encryptedData</string>
 			<key>DefaultValue</key>
-			<string>s22MWr4h+DlVtm2KfI1HJr03gXpwYlAwvYLozJ37y68/B+sZ9r/nMewEIGy0fjouA8Lke5CSM57tyUktezXfn2bmpPXp9xqXYvIopH+deKyqFv7LPPM+4D0QOjY5NXo1L+NmNqsp6iNXYBGFWAQpJkMvqp9Zt8YD6+0aJ0vD1tC0czSI9/metPqaqpxNDSBN</string>
+			<string></string>
 		</dict>
 		<dict>
 			<key>Type</key>
